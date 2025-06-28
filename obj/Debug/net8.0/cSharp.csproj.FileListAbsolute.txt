@@ -1,0 +1,28 @@
+D:\cSharp\obj\Debug\net8.0\cSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\cSharp\obj\Debug\net8.0\cSharp.AssemblyInfoInputs.cache
+D:\cSharp\obj\Debug\net8.0\cSharp.AssemblyInfo.cs
+D:\cSharp\obj\Debug\net8.0\cSharp.csproj.CoreCompileInputs.cache
+D:\cSharp\bin\Debug\net8.0\cSharp.exe
+D:\cSharp\bin\Debug\net8.0\cSharp.deps.json
+D:\cSharp\bin\Debug\net8.0\cSharp.runtimeconfig.json
+D:\cSharp\bin\Debug\net8.0\cSharp.dll
+D:\cSharp\bin\Debug\net8.0\cSharp.pdb
+D:\cSharp\obj\Debug\net8.0\cSharp.dll
+D:\cSharp\obj\Debug\net8.0\refint\cSharp.dll
+D:\cSharp\obj\Debug\net8.0\cSharp.pdb
+D:\cSharp\obj\Debug\net8.0\cSharp.genruntimeconfig.cache
+D:\cSharp\obj\Debug\net8.0\ref\cSharp.dll
+D:\Project\Tic Tac Toe\bin\Debug\net8.0\cSharp.exe
+D:\Project\Tic Tac Toe\bin\Debug\net8.0\cSharp.deps.json
+D:\Project\Tic Tac Toe\bin\Debug\net8.0\cSharp.runtimeconfig.json
+D:\Project\Tic Tac Toe\bin\Debug\net8.0\cSharp.dll
+D:\Project\Tic Tac Toe\bin\Debug\net8.0\cSharp.pdb
+D:\Project\Tic Tac Toe\obj\Debug\net8.0\cSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Tic Tac Toe\obj\Debug\net8.0\cSharp.AssemblyInfoInputs.cache
+D:\Project\Tic Tac Toe\obj\Debug\net8.0\cSharp.AssemblyInfo.cs
+D:\Project\Tic Tac Toe\obj\Debug\net8.0\cSharp.csproj.CoreCompileInputs.cache
+D:\Project\Tic Tac Toe\obj\Debug\net8.0\cSharp.dll
+D:\Project\Tic Tac Toe\obj\Debug\net8.0\refint\cSharp.dll
+D:\Project\Tic Tac Toe\obj\Debug\net8.0\cSharp.pdb
+D:\Project\Tic Tac Toe\obj\Debug\net8.0\cSharp.genruntimeconfig.cache
+D:\Project\Tic Tac Toe\obj\Debug\net8.0\ref\cSharp.dll
